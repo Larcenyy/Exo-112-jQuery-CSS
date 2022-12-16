@@ -1,0 +1,1 @@
+let pe = $('p').css('background-color', "green").css('color', "white").css("font-size", "25px").css("padding", "15px")
